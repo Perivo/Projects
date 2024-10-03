@@ -71,10 +71,10 @@ The **Bootstrap Humorous Frontend Development Website** demonstrates the power o
 We welcome contributions to either of the projects! If you have more humorous content, improvements to the design, or additional examples, feel free to fork the repository and submit a pull request.
 
 ### **License**
-Both projects are licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Both projects are licensed under the MIT License - see the [LICENSE]([(https://opensource.org/license/afl-3-0-php)]) file for details.
 
 ### **Author**
-- **Your Name** - [GitHub](https://github.com/Perivo)
+- **Your Name** - Ivo Pereira (https://github.com/Perivo)
 
 ---
 
@@ -85,6 +85,3 @@ Both projects are licensed under the MIT License - see the [LICENSE](LICENSE) fi
 
 Feel free to explore the projects, learn something new, and have a laugh along the way!
 
----
-
-This `README.md` file provides a high-level overview of both websites, making it easy for anyone visiting your repository to understand what each project is about, how to run them, and how to contribute.
